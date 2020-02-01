@@ -1,4 +1,5 @@
 .vscode
 fluidsynth-build
 fluidsynth-dist
-
+JuceLibraryCode
+Builds

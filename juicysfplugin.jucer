@@ -80,18 +80,18 @@
                        libraryPath="../../fluidsynth-dist/lib64"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
-        <MODULEPATH id="juce_gui_basics" path="../../juce"/>
-        <MODULEPATH id="juce_graphics" path="../../juce"/>
-        <MODULEPATH id="juce_events" path="../../juce"/>
-        <MODULEPATH id="juce_data_structures" path="../../juce"/>
-        <MODULEPATH id="juce_core" path="../../juce"/>
-        <MODULEPATH id="juce_audio_utils" path="../../juce"/>
-        <MODULEPATH id="juce_audio_processors" path="../../juce"/>
-        <MODULEPATH id="juce_audio_plugin_client" path="../../juce"/>
-        <MODULEPATH id="juce_audio_devices" path="../../juce"/>
-        <MODULEPATH id="juce_audio_basics" path="../../juce"/>
-        <MODULEPATH id="juce_audio_formats" path="../../../../Applications/JUCE/modules"/>
-        <MODULEPATH id="juce_gui_extra" path="../../../../Applications/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path=""/>
+        <MODULEPATH id="juce_graphics" path=""/>
+        <MODULEPATH id="juce_events" path=""/>
+        <MODULEPATH id="juce_data_structures" path=""/>
+        <MODULEPATH id="juce_core" path=""/>
+        <MODULEPATH id="juce_audio_utils" path=""/>
+        <MODULEPATH id="juce_audio_processors" path=""/>
+        <MODULEPATH id="juce_audio_plugin_client" path=""/>
+        <MODULEPATH id="juce_audio_devices" path=""/>
+        <MODULEPATH id="juce_audio_basics" path=""/>
+        <MODULEPATH id="juce_audio_formats" path=""/>
+        <MODULEPATH id="juce_gui_extra" path=""/>
       </MODULEPATHS>
     </LINUX_MAKE>
     <CLION targetFolder="Builds/CLion" clionXcodeEnabled="1" clionMakefileEnabled="1">
